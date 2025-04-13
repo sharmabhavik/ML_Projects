@@ -9,31 +9,16 @@ A professionally curated collection of end-to-end **Machine Learning projects** 
 
 Each project is organized, reproducible, and designed with clarity and best practices in mind.
 
----
-
-## 📁 Project Structure
-
-Each project folder typically contains:
-- `data/` – Raw or processed datasets
-- `notebooks/` – Jupyter notebooks with step-by-step implementation
-- `scripts/` – Python scripts for training, preprocessing, etc.
-- `README.md` – Project-specific documentation
-- `requirements.txt` – Project dependencies
-
----
 
 ## 🚀 Projects Included
 
 | Project Name                     | Description                                                                 | Algorithms Used                     |
-|----------------------------------|-----------------------------------------------------------------------------|------------------------|
-| **1. House Price Prediction**    | Predict house prices using multiple features                               | Linear Regression, Ridge |
-
-| 2. Customer Segmentation**     | Cluster customers based on behavior for marketing                          | K-Means, PCA  |   
-
-| 3. Spam Email Classifier**     | Classify emails as spam or not spam                                        | Naive Bayes, TF-IDF |
-
-| 4. Diabetes Prediction**       | Predict diabetes risk using health metrics                                 | Logistic Regression, SVM |           
-| 5. Stock Price Forecasting**   | Forecast stock prices using time-series analysis                           | ARIMA, LSTM (if DL used)    
+|----------------------------------|-----------------------------------------------------------------------------|--------------------------------------|
+| **1. House Price Prediction**    | Predict house prices using multiple features                               | Linear Regression, Ridge            |
+| **2. Customer Segmentation**     | Cluster customers based on behavior for marketing                          | K-Means, PCA                        |
+| **3. Spam Email Classifier**     | Classify emails as spam or not spam                                        | Naive Bayes, TF-IDF                 |
+| **4. Diabetes Prediction**       | Predict diabetes risk using health metrics                                 | Logistic Regression, SVM            |
+| **5. Stock Price Forecasting**   | Forecast stock prices using time-series analysis                           | ARIMA, LSTM (if DL used)            |
 
 > 📌 *More projects coming soon...*
 
